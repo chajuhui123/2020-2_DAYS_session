@@ -4,7 +4,9 @@
 [강의 영상 YOUTUBE 채널](https://www.youtube.com/channel/UCHyzdWCEoOnG8fAxLJg-8Bg)  
 
 >[1주차 - Orientation](https://www.youtube.com/watch?v=1N1D7AytMhc&t=536s)  
->[2주차 - Python, Pandas 기초와 EDA 실습](https://www.youtube.com/watch?v=XwmFhIJwLTc)  
+>[2주차 - Python, Pandas 기초와 EDA 실습](https://www.youtube.com/watch?v=XwmFhIJwLTc)   
+>[3주차 - 기초 통계학 1](https://www.youtube.com/watch?v=EusMk3QuJuA)   
+>[4주차 - 기초 통계학 2](https://www.youtube.com/watch?v=5W-r_dfH4Mc)    
 
 ---
 # Curriculum
