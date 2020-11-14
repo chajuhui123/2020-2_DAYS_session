@@ -10,6 +10,7 @@
 >[5주차 - 기초 통계학 3](https://www.youtube.com/watch?v=ruo6i1Ns5aA&t=8s)  
 >[6주차 - 선형회귀분석/개인 프로젝트 안내](https://www.youtube.com/watch?v=g-M-Sd27CJg)  
 >[7주차 - 머신러닝 기초 개념](https://www.youtube.com/watch?v=kWWyU_q-4-A&t=62s)  
+>[8주차 - 개인 프로젝트 프로세스 실습](https://www.youtube.com/watch?v=_OBXYMScFbU)  
 
 ---
 # Curriculum
