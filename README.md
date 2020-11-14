@@ -7,6 +7,9 @@
 >[2주차 - Python, Pandas 기초와 EDA 실습](https://www.youtube.com/watch?v=XwmFhIJwLTc)   
 >[3주차 - 기초 통계학 1](https://www.youtube.com/watch?v=EusMk3QuJuA)   
 >[4주차 - 기초 통계학 2](https://www.youtube.com/watch?v=5W-r_dfH4Mc)    
+>[5주차 - 기초 통계학 3](https://www.youtube.com/watch?v=ruo6i1Ns5aA&t=8s)  
+>[6주차 - 선형회귀분석/개인 프로젝트 안내](https://www.youtube.com/watch?v=g-M-Sd27CJg)  
+>[7주차 - 머신러닝 기초 개념](https://www.youtube.com/watch?v=kWWyU_q-4-A&t=62s)  
 
 ---
 # Curriculum
